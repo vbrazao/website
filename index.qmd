@@ -1,5 +1,6 @@
 ---
-title: "website"
+title: "Welcome!"
+subtitle: "This is the personal page of Vasco Brazão"
 ---
 
 This is a Quarto website.
