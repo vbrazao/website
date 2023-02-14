@@ -1,9 +1,20 @@
 ---
 title: "About"
+image: vasco_profile-pic_2022.jpeg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/vascobrazao
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/vascobrazao/
+    - icon: github
+      text: Github
+      href: https://github.com/vbrazao
 ---
 
-About this site
+One day this will say something about me and/or this blog!
 
-```{r}
-1 + 1
-```
+For now, feel free to use the clickity things below to click away!
