@@ -4,9 +4,8 @@ image: vasco_profile-pic_2022.jpeg
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/vascobrazao
+    - text: "{{< iconify icon-park-solid butterfly height=18 width=18 >}} Bluesky"
+      href: https://bsky.app/profile/vascobrazao.bsky.social
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/vascobrazao/
