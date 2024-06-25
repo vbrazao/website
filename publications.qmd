@@ -12,10 +12,8 @@ Graça, J., Campos, L., Guedes, D., Roque, L., Brazão, V., Truninger, M., Godin
 
 Leme, G. A, Nasser, H., **Brazão, V.**, Serafim, M. P., Vilas-Boas, V. A., Leite, J. A., Mauro, C. (2023). Aplicação de Intervenções Comportamentais para o Compliance Sanitário para Prevenção da COVID-19 em Ambiente Hospitalar. *Revista de psicologia*. DOI: [10.14295/idonline.v17i67.3751](https://doi.org/10.14295/idonline.v17i67.3751)
 
-Author. Year. title. *Journal*. Link.
-
 ## Unpublished Dissertations
 
-**MSc:** Title.
+**MSc:** One-session mindfulness meditation interventions. <http://hdl.handle.net/10400.14/29513>
 
-**BA**: Title.
+**BA**: Beyond sex: The role of testosterone and estrogen in individual cognitive differences.
