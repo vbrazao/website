@@ -1,16 +1,9 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "One day this will say something about me and/or this blog!\nFor now, feel free to use the clickity things below to click away!"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome!",
+    "title": "Olá!",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I’m Vasco Brazão, an independent applied statistician based in Lisbon, Portugal. My formal background is in psychology: a MSc in Psychology in Business and Economics from Universidade Católica Portuguesa and a BA in Integrated Social and Cognitive Psychology from Constructor University (formerly Jacobs University Bremen). Since 2018, I’ve strived to learn and apply open science principles to my work, gaining proficiency in the R programming language, delving into Bayesian statistics and causal inference, and most recently, working through a fantastic online book on how to build reproducible analytical pipelines with R.\nYou can find me on BlueSky, where I post a mix of personal and professional content, and on LinkedIn, where I do my best not to post anything at all. Every so often I get obsessed about a new topic and birth a little treatise or blurt out an insight the form of a blog post which may or may not interest you."
   }
 ]
