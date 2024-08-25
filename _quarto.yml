@@ -10,6 +10,10 @@ website:
         text: Home
       - href: https://vbrazao.github.io/blog/
         text: Blog
+      - href: portfolio.qmd
+        text: Portfolio
+      - href: publications.qmd
+        text: Publications
 
 format:
   html:

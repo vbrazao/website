@@ -1,14 +1,15 @@
 ---
 title: "Publications"
+toc-location: left
 ---
 
 ## Journal Articles
 
 ### 2023
 
-Guedes, D., Brazão, V., Roque, L., Campos, L., Godinho, C., Truninger, M, Vinnari, M, Graça, J. (2023). Promoting plant-based eating in meat-centric meal contexts: a field study. *Public Health Nutrition*. DOI: [10.1017/S1368980023001763](https://doi.org/10.1017/s1368980023001763)
+Guedes, D., **Brazão, V.**, Roque, L., Campos, L., Godinho, C., Truninger, M, Vinnari, M, Graça, J. (2023). Promoting plant-based eating in meat-centric meal contexts: a field study. *Public Health Nutrition*. DOI: [10.1017/S1368980023001763](https://doi.org/10.1017/s1368980023001763)
 
-Graça, J., Campos, L., Guedes, D., Roque, L., Brazão, V., Truninger, M., Godinho, C. (2023). How to enable healthier and more sustainable food practices in colective meal contexts: A scoping review. *Appetite*. DOI: [10.1016/j.appet.2023.106597](https://doi.org/10.1016/j.appet.2023.106597)
+Graça, J., Campos, L., Guedes, D., Roque, L., **Brazão, V.**, Truninger, M., Godinho, C. (2023). How to enable healthier and more sustainable food practices in colective meal contexts: A scoping review. *Appetite*. DOI: [10.1016/j.appet.2023.106597](https://doi.org/10.1016/j.appet.2023.106597)
 
 Leme, G. A, Nasser, H., **Brazão, V.**, Serafim, M. P., Vilas-Boas, V. A., Leite, J. A., Mauro, C. (2023). Aplicação de Intervenções Comportamentais para o Compliance Sanitário para Prevenção da COVID-19 em Ambiente Hospitalar. *Revista de psicologia*. DOI: [10.14295/idonline.v17i67.3751](https://doi.org/10.14295/idonline.v17i67.3751)
 
