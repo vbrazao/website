@@ -1,14 +1,20 @@
 ---
-title: "Publications"
+title: "Portfolio"
+toc-location: left
 ---
 
+## Freelance Applied Statistician
 Most recently, I've been working with a sociologist on analyses related to intimate partner violence, seeking to apply an intersectional lens to understanding how race and gender interact to predict this phenomenon. This work has not been published yet, but I’ve written up a [post documenting some specific challenges I found during analyses and how I resolved them](https://vbrazao.github.io/blog/posts/2023-12-21_mediation-weighted-glm/) which can give you a glimpse into my technical and problem-solving skills.
 
+
+## Head of Research & Behavioral Advisor at CLOO - Behavioral Insights Unit
 At CLOO - Behavioral Insights Unit, in 2021, I was part of the core team working to reduce food waste at the worker canteens of BRF — a Brazillian food processing company and one of the largest such companies in the world. Our interventions reduced daily food waste by an average of 24% at three sites. To achieve this, we conducted diagnostics in loco, developed behavioral interventions, measured our impact against control canteens, and ensured our interventions did not negatively impact the workers by running surveys before and after the implementation, always working closely with the team at BRF. My role involved developing the methodological strategy, defining and coordinating the measurement strategy, delivering weekly reports to the BRF team on our ongoing measurements, conducting exploratory and inferential analyses of the daily food waste data as well as the survey data, and drafting parts of the final report and presentation.
 
+:::: {.column-margin}
 ::: {.callout-note appearance="minimal"}
 Read more about this project at the [BRF Hub Blog](https://www.hubbrf.com/blog/cases-de-sucesso/brf-reduz-24-do-desperdicio-alimentar-diario-em-seus-restaurantes/) (page in Portuguese — use an automatic translator if required; [archived link](https://web.archive.org/web/20240520112712/https://www.hubbrf.com/blog/cases-de-sucesso/brf-reduz-24-do-desperdicio-alimentar-diario-em-seus-restaurantes/)).
 :::
+::::
 
 At CLOO - Behavioral Insights Unit, in 2020/2021, I led our work supporting the [SUSTAINMEALS](https://www.sustainmeals.org/projeto?lang=en) project. Coordinated by João Graça, PhD, the project sought to increase knowledge and generate evidence with the ultimate goal of facilitating a large-scale shift towards healthier and more sustainable plant-based meals throughout Portugal. I was responsible for leading CLOO’s team within the project, focusing on three key outputs:
 
@@ -21,6 +27,8 @@ At CLOO - Behavioral Insights Unit, in 2020/2021, I led our work supporting the 
 \
 At CLOO - Behavioral Insights unit in 2019/2020, I led the methodological and analysis tasks of a project for the first time. We supported Eedi, an EdTech company who develop a formative assessment educational app used in schools throughout the United Kingdom, to test the impact of granting parents access to the app on pupils’ educational and app-related outcomes. This work, supported by [Nesta’s Solving Together Fund](https://www.nesta.org.uk/blog/solving-together-helping-parents-to-support-their-childs-maths-education/), involved designing and conducting a cluster-randomized trial to test the parent roll-out in 79 Year 7 and 8 classes in 9 schools. While our intervention did not produce the intended outcomes, the process was a rich learning experience for myself and for Eedi — for example, my exploratory data analysis made it clear to the Eedi team that pupil outcomes were much more dependent of the teacher rather than the parents or even app features, as we showed that certain teachers managed to produce high levels of engagement with the app regardless of which year they thoughts, whereas others seemed to always display poor engagement. Besides working to develop the interventions and describing research that would increase Eedi’s knowledge of how to generate positive engagement with their products, my biggest learning experience was enabled by the design of the study itself: clustered data for educational interventions need to be analyzed with a statistical model that adequately accounts for the clustering. I had the chance to autonomously learn about, apply, and interpret multi-level generalized linear models, and have kept refining my skills in this area ever since.
 
+:::: {.column-margin}
 ::: {.callout-note appearance="minimal"}
 To learn more about this work, read the [final report we submitted as the final milestone for the Solving Together Fund](https://res.cloudinary.com/upwork-fp/image/upload/v1674465028/profile/portfolio/778625175288537088/a63k7fwmslupqlxjrzsh.pdf).
 :::
+::::
