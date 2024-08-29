@@ -1,6 +1,6 @@
 ---
 title: "Olá!"
-image: vasco_profile-pic_2022.jpeg
+image: vasco_linkedin_square.jpeg
 about:
   template: jolla
   links:
