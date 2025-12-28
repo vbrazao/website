@@ -9,13 +9,13 @@ The page is split into two sections for now, showing projects from most to least
 
 ## Freelance Applied Statistician
 
-::: column-margin
+:::: column-margin
 ::: {.callout-note appearance="minimal"}
 See more of my journey as a freelance statistician and find out what clients say about me at [my Upwork profile](https://www.upwork.com/freelancers/~010ee2f24d43313103).
 :::
-:::
+::::
 
-I'm currently a Top Rated freelancer with 100% Job Success on Upwork. I also consult for clients outside of the platform.
+I was a Top Rated freelancer with 100% Job Success on Upwork. I also consulted for clients outside of the platform.
 
 ### Researching intimate partner violence with complex survey data
 
@@ -25,11 +25,11 @@ Most recently, I've been working with a sociologist on analyses related to intim
 
 ### Reducing food waste by 24% in company canteens with behavioral interventions
 
-::: column-margin
+:::: column-margin
 ::: {.callout-note appearance="minimal"}
 Read more about this project at the [BRF Hub Blog](https://www.hubbrf.com/blog/cases-de-sucesso/brf-reduz-24-do-desperdicio-alimentar-diario-em-seus-restaurantes/) (page in Portuguese — use an automatic translator if required; [archived link](https://web.archive.org/web/20240520112712/https://www.hubbrf.com/blog/cases-de-sucesso/brf-reduz-24-do-desperdicio-alimentar-diario-em-seus-restaurantes/)).
 :::
-:::
+::::
 
 In 2021, I was part of the core team working to reduce food waste at the worker canteens of BRF — a Brazillian food processing company and one of the largest such companies in the world. Our interventions reduced daily food waste by an average of 24% at three sites. To achieve this, we conducted diagnostics in loco, developed behavioral interventions, measured our impact against control canteens, and ensured our interventions did not negatively impact the workers by running surveys before and after the implementation, always working closely with the team at BRF.
 
@@ -47,11 +47,11 @@ In 2020/2021, I led our work supporting the [SUSTAINMEALS](https://www.sustainme
 
 ### Leading a cluster-randomized evaluation of an EdTech app
 
-::: column-margin
+:::: column-margin
 ::: {.callout-note appearance="minimal"}
 To learn more about this work, read the [final report we submitted as the final milestone for the Solving Together Fund](https://res.cloudinary.com/upwork-fp/image/upload/v1674465028/profile/portfolio/778625175288537088/a63k7fwmslupqlxjrzsh.pdf).
 :::
-:::
+::::
 
 In 2019/2020, I led the methodological and analysis tasks of a project for the first time. We supported Eedi, an EdTech company who develop a formative assessment educational app used in schools throughout the United Kingdom, to test the impact of granting parents access to the app on pupils’ educational and app-related outcomes. This work, supported by [Nesta’s Solving Together Fund](https://www.nesta.org.uk/blog/solving-together-helping-parents-to-support-their-childs-maths-education/), involved designing and conducting a cluster-randomized trial to test the parent roll-out in 79 Year 7 and 8 classes in 9 schools. While our intervention did not produce the intended outcomes, the process was a rich learning experience for myself and for Eedi — for example, my exploratory data analysis made it clear to the Eedi team that pupil outcomes were much more dependent on the teacher rather than the parents or even app features, as we showed that certain teachers managed to produce high levels of engagement with the app regardless of which year they taught, whereas others seemed to always display poor engagement.
 
